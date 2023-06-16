@@ -5,7 +5,7 @@ from asyncio import sleep
 #special for iystal.t.me
 
 @loader.tds
-class ILYMod(loader.Module):
+class SAQIMod(loader.Module):
     """Special from Qwider for ihbor"""
 
     strings = {"name": "Special Animation"}
